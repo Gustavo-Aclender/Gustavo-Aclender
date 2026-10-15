@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="misty-landscape-with-bridge-footbridge.jpg" width="100%" />
+  <img src="dark-sunset.jpg" width="100%" />
 </div>
 
 <br/>

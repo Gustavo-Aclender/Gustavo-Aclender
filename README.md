@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="dark-sunset.jpg" width="100%" />
+  <img src="dark-sunset.jpg" width="100%" alt="Paisagem gótica sombria" />
 </div>
-
-<br/>
 <div align="center">
 
 # GUSTAVO ACLENDER

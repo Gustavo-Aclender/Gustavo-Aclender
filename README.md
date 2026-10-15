@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="misty-landscape-with-bridge-footbridge.jpg" width="100%" />
-</div>
-
-<br/>
-<div align="center">
 
 # GUSTAVO ACLENDER
 
